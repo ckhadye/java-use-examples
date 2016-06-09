@@ -1,0 +1,16 @@
+liferay task portlet goals:
+
+todo:
+
+1. a tasker service builder portlet
+2. Users and tasks are linked
+3. Create some sample data for users table
+4. from portlet create new task and assign to users from user table.
+5. Portlet should provide following functionalities:
+
+a. Create a new task for user from user table.
+b. Display the tasks assigned to specific user
+--c. Later on link the tasks to users created in liferay.
+d. Use template functionality to create the user and tasks.
+e. Initiate a workflow after task is assigned.
+f. Send notification to user to accept or complete the task. 
